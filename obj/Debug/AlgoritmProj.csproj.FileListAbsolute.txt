@@ -1,0 +1,6 @@
+c:\users\aryan\documents\visual studio 2012\Projects\AlgoritmProj\AlgoritmProj\bin\Debug\AlgoritmProj.exe.config
+C:\Users\aryan\Documents\Visual Studio 2012\Projects\AlgoritmProj\AlgoritmProj\bin\Debug\AlgoritmProj.exe
+C:\Users\aryan\Documents\Visual Studio 2012\Projects\AlgoritmProj\AlgoritmProj\bin\Debug\AlgoritmProj.pdb
+C:\Users\aryan\Documents\Visual Studio 2012\Projects\AlgoritmProj\AlgoritmProj\obj\Debug\AlgoritmProj.csprojResolveAssemblyReference.cache
+C:\Users\aryan\Documents\Visual Studio 2012\Projects\AlgoritmProj\AlgoritmProj\obj\Debug\AlgoritmProj.exe
+C:\Users\aryan\Documents\Visual Studio 2012\Projects\AlgoritmProj\AlgoritmProj\obj\Debug\AlgoritmProj.pdb
